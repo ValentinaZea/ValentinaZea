@@ -10,7 +10,7 @@ Some of my facts:
 - :woman_technologist: I’m currently working on web development projects implementing both PWA and SPA methodologies
 - 🌱 I’m currently learning Javascript and React 
 - :raising_hand: I’m looking forward to collaborate with a multidisciplinary team on innovational projects
-- :call_me_hand: How to reach me: <a href="https://www.linkedin.com/in/maria-valentina-zea-molano-5016071a0/" width="30px" rel="linked-in">![Foo](https://user-images.githubusercontent.com/32102471/126922759-efe48ed9-35ec-4a24-8dab-25a536178a6c.png)</a>
+- :call_me_hand: How to reach me: <a href="https://www.linkedin.com/in/maria-valentina-zea-molano-5016071a0/" rel="linked-in">![Foo](https://user-images.githubusercontent.com/32102471/126922759-efe48ed9-35ec-4a24-8dab-25a536178a6c.png | width=30)</a>
 <!-- - [![LinkedIn][1.0]<img src="https://user-images.githubusercontent.com/32102471/126922759-efe48ed9-35ec-4a24-8dab-25a536178a6c.png" width="30px"> -->
 
 - ⚡ Fun fact: Music Lover and passionate about cultures
