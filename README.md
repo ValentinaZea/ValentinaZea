@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=csswizardry&logoColor=F43059&color=F43059)
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=FFCA28&color=FFCA28)
 ![](https://img.shields.io/badge/Tools-JiraSoftware-informational?style=flat&logo=jirasoftware&logoColor=0052CC&color=0052CC)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=csswizardry&logoColor=F43059&color=F43059)
+![](https://img.shields.io/badge/Tools-WordPress-informational?style=flat&logo=wordpress&logoColor=21759B&color=21759B)
 
 
 
