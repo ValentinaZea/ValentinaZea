@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea)](https://github.com/ValentinaZea/github-readme-stats)
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Javascript-Vainilla-informational?style=flat&logo=data:javascript/svg%2bxml;base64,<BASE64_DATA>)
+![](https://img.shields.io/badge/Vainilla-JavaScript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)
+![](https://img.shields.io/badge/React-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=data:javascript/svg%2bxml;base64,<BASE64_DATA>)
 
