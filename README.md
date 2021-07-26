@@ -24,10 +24,10 @@ Some of my facts:
 ![](https://img.shields.io/badge/Tools-WordPress-informational?style=flat&logo=wordpress&logoColor=21759B&color=21759B)
 
 ## &#x1f4c8; GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea&layout=compact)](https://github.com/ValentinaZea/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ValentinaZea&count_private=true&show_icons=true&theme=radical&hide_rank=false"/>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea&layout=compact)](https://github.com/ValentinaZea/github-readme-stats) -->
 [![Tina's github stats](https://github-readme-stats.vercel.app/api?username=ValentinaZea&count_private=true&show_icons=true&theme=radical&hide_rank=false)
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=ValentinaZea&count_private=true&show_icons=true&theme=radical&hide_rank=false"/> -->
+
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea&layout=compact)](https://github.com/ValentinaZea/github-readme-stats) -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea)](https://github.com/ValentinaZea/github-readme-stats"/> -->
 
