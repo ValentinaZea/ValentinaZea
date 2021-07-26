@@ -13,6 +13,8 @@ Some of my facts:
 - :call_me_hand: How to reach me: <a href="https://www.linkedin.com/in/maria-valentina-zea-molano-5016071a0/" rel="LinkedIn">![Foo](https://user-images.githubusercontent.com/32102471/126924571-38818c84-a7ec-443a-8fc4-05599607ed19.png)</a>
 - ⚡ Fun fact: Music Lover and passionate about cultures
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea)](https://github.com/ValentinaZea/github-readme-stats)
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Vainilla-JavaScript-informational?style=flat&logo=javascript&logoColor=F7DF1E&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=61DAFB&color=61DAFB)
@@ -27,7 +29,7 @@ Some of my facts:
   <img src="https://github-readme-stats.vercel.app/api?username=ValentinaZea&count_private=true&show_icons=true&theme=radical&hide_rank=false"/>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea&layout=compact)](https://github.com/ValentinaZea/github-readme-stats)
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea)](https://github.com/ValentinaZea/github-readme-stats)
+
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea&layout=compact)](https://github.com/ValentinaZea/github-readme-stats) -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea)](https://github.com/ValentinaZea/github-readme-stats"/> -->
 
