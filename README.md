@@ -10,7 +10,7 @@ Some of my facts:
 - :woman_technologist: I’m currently working on web development projects implementing both PWA and SPA methodologies
 - 🌱 I’m currently learning Javascript and React 
 - :raising_hand: I’m looking forward to collaborate with a multidisciplinary team on innovational projects
-- :call_me_hand: How to reach me: [![LinkedIn][https://www.linkedin.com/in/maria-valentina-zea-molano-5016071a0/]<img src="https://user-images.githubusercontent.com/32102471/126922759-efe48ed9-35ec-4a24-8dab-25a536178a6c.png" width="30px">
+- :call_me_hand: How to reach me: [![LinkedIn][1.0]<img src="https://user-images.githubusercontent.com/32102471/126922759-efe48ed9-35ec-4a24-8dab-25a536178a6c.png" width="30px">
 
 - ⚡ Fun fact: Music Lover and passionate about cultures
 
@@ -28,5 +28,6 @@ Some of my facts:
 ## &#x1f4c8; GitHub Stats
 (https://github-readme-stats.vercel.app/api?username=ValentinaZea&count_private=true&show_icons=true&theme=radical&hide_rank=false)(https://github.com/ValentinaZea/github-readme-stats)
 
-
+[1.0]:https://www.linkedin.com/in/maria-valentina-zea-molano-5016071a0/
+[1.1]:https://user-images.githubusercontent.com/32102471/126922759-efe48ed9-35ec-4a24-8dab-25a536178a6c.png
 
