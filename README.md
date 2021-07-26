@@ -25,9 +25,9 @@ Some of my facts:
 ## &#x1f4c8; GitHub Stats
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=ValentinaZea&count_private=true&show_icons=true&theme=radical&hide_rank=false"/>
-</div>
-<div>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea&layout=compact)](https://github.com/ValentinaZea/github-readme-stats)
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea)](https://github.com/ValentinaZea/github-readme-stats"/> -->
 </div>
+
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea&layout=compact)](https://github.com/ValentinaZea/github-readme-stats) -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea)](https://github.com/ValentinaZea/github-readme-stats"/> -->
 
