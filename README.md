@@ -1,4 +1,5 @@
-### Hi there 👋
+
+### Hi there ![wave](https://user-images.githubusercontent.com/32102471/126919562-b21c2654-a7ec-495a-9150-a0fb8b960af4.gif)
 
 
 I'm Maria Valentina Zea, a perfectionist Front-End developer who pays special attention to details and tends to a detailed execution of work, a fact that manifests itself in my projects.
