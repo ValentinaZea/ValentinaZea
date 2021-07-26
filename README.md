@@ -30,7 +30,8 @@ Some of my facts:
 ![](https://img.shields.io/badge/Tools-WordPress-informational?style=flat&logo=wordpress&logoColor=21759B&color=21759B)
 
 ## &#x1f4c8; GitHub Stats
-(https://github-readme-stats.vercel.app/api?username=ValentinaZea&count_private=true&show_icons=true&theme=radical&hide_rank=false)(https://github.com/ValentinaZea/github-readme-stats)
+[](https://github-readme-stats.vercel.app/api?username=ValentinaZea&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+[](https://github.com/ValentinaZea/github-readme-stats)
 
 [1.0]:https://www.linkedin.com/in/maria-valentina-zea-molano-5016071a0/
 [1.1]:https://user-images.githubusercontent.com/32102471/126922759-efe48ed9-35ec-4a24-8dab-25a536178a6c.png
