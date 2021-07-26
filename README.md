@@ -2,15 +2,16 @@
 # Hi there <img src="https://user-images.githubusercontent.com/32102471/126919562-b21c2654-a7ec-495a-9150-a0fb8b960af4.gif" width="30px">
 
 
-I'm Maria Valentina Zea, a perfectionist Front-End developer :woman_technologist: who pays special attention to details and tends to a detailed execution of work, a fact that manifests itself in my projects.
+I'm Maria Valentina Zea, a perfectionist Front-End developer who pays special attention to details and tends to a detailed execution of work, a fact that manifests itself in my projects.
 
 I have knowledge in Javascript, PHP, HTML and CSS, CMS management such as WordPress and use of agile methodologies with an experience of about 2 years always looking forward to improve my skills and expand my knowledge to other fields.
 
 Some of my facts:
-- 🔭 I’m currently working on web development projects implementing both PWA and SPA methodologies
+- :woman_technologist: I’m currently working on web development projects implementing both PWA and SPA methodologies
 - 🌱 I’m currently learning Javascript and React 
-- 👯 I’m looking forward to collaborate with a multidisciplinary team on innovational projects
-- 📫 How to reach me: 
+- :raising_hand: I’m looking forward to collaborate with a multidisciplinary team on innovational projects
+- :call_me_hand: How to reach me: ![linkedin](https://user-images.githubusercontent.com/32102471/126922759-efe48ed9-35ec-4a24-8dab-25a536178a6c.png)
+
 - ⚡ Fun fact: Music Lover and passionate about cultures
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea)](https://github.com/ValentinaZea/github-readme-stats)
