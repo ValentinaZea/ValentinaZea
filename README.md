@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-**ValentinaZea/ValentinaZea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Maria Valentina Zea, a perfectionist Front-End developer who pays special attention to details and tends to a detailed execution of work, a fact that manifests itself in my projects.
+
+I have knowledge in Javascript, PHP, HTML and CSS, CMS management such as WordPress and use of agile methodologies with an experience of about 2 years always looking forward to improve my skills and expand my knowledge to other fields.
 
 Here are some ideas to get you started:
 
@@ -18,3 +20,7 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea)](https://github.com/ValentinaZea/github-readme-stats)
+
+
+![](https://img.shields.io/badge/Javascript-Vainilla-informational?style=flat&logo=data:javascript/svg%2bxml;base64,<BASE64_DATA>)
+
