@@ -1,5 +1,5 @@
 
-### Hi there <img src="https://user-images.githubusercontent.com/32102471/126919562-b21c2654-a7ec-495a-9150-a0fb8b960af4.gif" width="30px">
+# Hi there <img src="https://user-images.githubusercontent.com/32102471/126919562-b21c2654-a7ec-495a-9150-a0fb8b960af4.gif" width="30px">
 
 
 I'm Maria Valentina Zea, a perfectionist Front-End developer who pays special attention to details and tends to a detailed execution of work, a fact that manifests itself in my projects.
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinaZea)](https://github.com/ValentinaZea/github-readme-stats)
 
-
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Javascript-Vainilla-informational?style=flat&logo=data:javascript/svg%2bxml;base64,<BASE64_DATA>)
 
