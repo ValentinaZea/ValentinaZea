@@ -4,7 +4,7 @@
 
 I'm Maria Valentina Zea, a perfectionist Front-End developer who pays special attention to details and tends to a detailed execution of work, a fact that manifests itself in my projects.
 
-I have knowledge in Javascript, PHP, HTML and CSS, CMS management such as WordPress and use of agile methodologies with an experience of about 2 years always looking forward to improve my skills and expand my knowledge to other fields.
+I have knowledge in Javascript, PHP, HTML and CSS, CMS management such as WordPress and use of agile methodologies with an experience of about 3 years always looking forward to improve my skills and expand my knowledge to other fields.
 
 Some of my facts:
 - :woman_technologist: I’m currently working on web development projects implementing both PWA and SPA methodologies
