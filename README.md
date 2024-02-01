@@ -11,7 +11,7 @@ Some of my facts:
 - 🌱 I’m currently learning Javascript and React 
 - :raising_hand: I’m looking forward to collaborate with a multidisciplinary team on innovational projects
 - :call_me_hand: How to reach me: <a href="https://www.linkedin.com/in/maria-valentina-zea-molano-5016071a0/" rel="LinkedIn">![Foo](https://user-images.githubusercontent.com/32102471/126924571-38818c84-a7ec-443a-8fc4-05599607ed19.png)</a>
-- ⚡ Fun fact: Music Lover and passionate about cultures
+- ⚡ Fun fact: Music Lover 🎶 and passionate about travel and cultures ✈️
 
 
 ## 🔧 Technologies & Tools
